@@ -1,0 +1,20 @@
+﻿<Page x:Class="CsTeach.Pages.helpStudent"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CsTeach.Pages"
+      mc:Ignorable="d" d:DesignWidth="800"
+      Title="helpStudent" Width="792" Height="469.766">
+
+    <Grid Margin="0,0,-39,-45">
+        <Image HorizontalAlignment="Left" Height="309" VerticalAlignment="Top" Width="630" Margin="70,79,0,0" Source="/CsTeach;component/Images/chaptersImg.png"/>
+        <TextBox HorizontalAlignment="Left" Height="64" Margin="10,10,0,0" TextWrapping="Wrap" Text="Contecting as student redirects you to the chapters menu. Here you can read the theory or do the tests. Colors idicate how well you know each chapter, as shown on the left corner. Press on Tests button for tests info." VerticalAlignment="Top" Width="772" IsReadOnly="True" FontSize="16"/>
+        <Button Content="" HorizontalAlignment="Left" Margin="78,139,0,0" VerticalAlignment="Top" Width="55" Height="18" Click="Button_Click">
+            <Button.Background>
+                <ImageBrush/>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Page>

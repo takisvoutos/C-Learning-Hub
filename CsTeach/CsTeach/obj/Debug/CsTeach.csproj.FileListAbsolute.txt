@@ -1,0 +1,363 @@
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\bin\Debug\CsTeach.exe.config
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\bin\Debug\CsTeach.exe
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\bin\Debug\CsTeach.pdb
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\MainWindow.g.cs
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Chapters.g.cs
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\App.g.cs
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\CsTeach_MarkupCompile.cache
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\CsTeach_MarkupCompile.lref
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\MainWindow.baml
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Chapters.baml
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\CsTeach.g.resources
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\CsTeach.Properties.Resources.resources
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\CsTeach.csproj.GenerateResource.cache
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\CsTeach.csproj.CoreCompileInputs.cache
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\CsTeach.exe
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\CsTeach.pdb
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\BasicVars01.g.cs
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\BasicVars01.baml
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\BasicVars02.g.cs
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\BasicVars02.baml
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\CsTeach.csprojAssemblyReference.cache
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Ops01.g.cs
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Ops01.baml
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Ops02.g.cs
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Ops02.baml
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Ops03.g.cs
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Ops03.baml
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Loops01.g.cs
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Loops01.baml
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\loops02.g.cs
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\loops02.baml
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\LoopWhile.g.cs
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\LoopWhile.baml
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\loopWhile2.g.cs
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\loopWhile2.baml
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\LoopFor.g.cs
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\loopFor2.g.cs
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\LoopFor.baml
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\loopFor2.baml
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\loopDo.g.cs
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\loopDo2.g.cs
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\loopDo.baml
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\loopDo2.baml
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Des01.g.cs
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Des01.baml
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Arrays01.g.cs
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Arrays01.baml
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Arrays02.g.cs
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Arrays02.baml
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\MuArray1.g.cs
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\MuArray1.baml
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\MuArray2.g.cs
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\MuArray2.baml
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Register.g.cs
+C:\Users\Savvas\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Register.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\bin\Debug\CsTeach.exe.config
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\bin\Debug\CsTeach.exe
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\bin\Debug\CsTeach.pdb
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\CsTeach.csprojAssemblyReference.cache
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\MainWindow.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Arrays01.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Arrays02.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\BasicVars01.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\BasicVars02.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Chapters.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Des01.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\loopDo.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\loopDo2.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\LoopFor.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\loopFor2.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Loops01.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\loops02.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\LoopWhile.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\loopWhile2.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\MuArray1.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\MuArray2.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Ops01.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Ops02.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Ops03.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Register.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\App.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\CsTeach_MarkupCompile.cache
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\CsTeach_MarkupCompile.lref
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\MainWindow.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Arrays01.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Arrays02.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\BasicVars01.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\BasicVars02.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Chapters.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Des01.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\loopDo.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\loopDo2.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\LoopFor.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\loopFor2.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Loops01.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\loops02.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\LoopWhile.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\loopWhile2.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\MuArray1.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\MuArray2.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Ops01.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Ops02.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Ops03.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Register.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\CsTeach.g.resources
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\CsTeach.Properties.Resources.resources
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\CsTeach.csproj.GenerateResource.cache
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\CsTeach.csproj.CoreCompileInputs.cache
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\CsTeach.exe
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\CsTeach.pdb
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Login.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Login.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\BasicUI01.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\BasicUI01.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Properties.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Properties.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Events.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Events.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\TeacherMenu.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\TeacherMenu.baml
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Test1.g.cs
+C:\Users\Savvas Laptop\source\repos\CsTeach\CsTeach\obj\Debug\Pages\Test1.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\bin\Debug\CsTeach.exe.config
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\bin\Debug\CsTeach.exe
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\bin\Debug\CsTeach.pdb
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\CsTeach.csprojAssemblyReference.cache
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\MainWindow.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Arrays01.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Arrays02.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\BasicUI01.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\BasicVars01.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\BasicVars02.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Chapters.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Des01.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Events.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Login.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\loopDo.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\loopDo2.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\LoopFor.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\loopFor2.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Loops01.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\loops02.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\LoopWhile.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\loopWhile2.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\MuArray1.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\MuArray2.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Ops01.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Ops02.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Ops03.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Properties.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Register.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\TeacherMenu.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Test1.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\App.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\CsTeach_MarkupCompile.cache
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\CsTeach_MarkupCompile.lref
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\MainWindow.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Arrays01.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Arrays02.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\BasicUI01.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\BasicVars01.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\BasicVars02.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Chapters.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Des01.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Events.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Login.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\loopDo.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\loopDo2.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\LoopFor.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\loopFor2.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Loops01.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\loops02.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\LoopWhile.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\loopWhile2.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\MuArray1.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\MuArray2.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Ops01.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Ops02.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Ops03.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Properties.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Register.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\TeacherMenu.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\Test1.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\CsTeach.g.resources
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\CsTeach.Properties.Resources.resources
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\CsTeach.csproj.GenerateResource.cache
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\CsTeach.csproj.CoreCompileInputs.cache
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\CsTeach.exe
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\CsTeach.pdb
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\TeacherMenu2.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\TeacherMenuMain.g.cs
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\TeacherMenu2.baml
+E:\Laptop\Visual Studio Projects\CsTeach\CsTeach\obj\Debug\Pages\TeacherMenuMain.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\bin\Debug\CsTeach.exe.config
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\bin\Debug\CsTeach.exe
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\bin\Debug\CsTeach.pdb
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\CsTeach.csprojAssemblyReference.cache
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\MainWindow.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Arrays01.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Arrays02.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\BasicUI01.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\BasicVars01.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\BasicVars02.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Chapters.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Des01.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Events.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Login.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\loopDo.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\loopDo2.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\LoopFor.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\loopFor2.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Loops01.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\loops02.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\LoopWhile.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\loopWhile2.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\MuArray1.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\MuArray2.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Ops01.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Ops02.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Ops03.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Properties.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Register.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\TeacherMenu.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\TeacherMenu2.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\TeacherMenuMain.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Test1.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\App.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\CsTeach_MarkupCompile.cache
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\CsTeach_MarkupCompile.lref
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\MainWindow.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Arrays01.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Arrays02.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\BasicUI01.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\BasicVars01.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\BasicVars02.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Chapters.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Des01.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Events.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Login.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\loopDo.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\loopDo2.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\LoopFor.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\loopFor2.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Loops01.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\loops02.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\LoopWhile.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\loopWhile2.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\MuArray1.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\MuArray2.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Ops01.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Ops02.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Ops03.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Properties.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Register.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\TeacherMenu.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\TeacherMenu2.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\TeacherMenuMain.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\Test1.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\CsTeach.g.resources
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\CsTeach.Properties.Resources.resources
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\CsTeach.csproj.GenerateResource.cache
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\CsTeach.csproj.CoreCompileInputs.cache
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\CsTeach.exe
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\CsTeach.pdb
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\testPage.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\testPage.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\HelpWindow.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\HelpWindow.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\help1.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\help1.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\helpLogin.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\helpLogin.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\helpStudent.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\helpStudent.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\testsHelp.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\testsHelp.baml
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\helpTeacher.g.cs
+C:\Users\Savvas Laptop\Desktop\Savvas\CsTeach\CsTeach\obj\Debug\Pages\helpTeacher.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\bin\Debug\CsTeach.exe.config
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\CsTeach.exe
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\CsTeach.pdb
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\bin\Debug\CsTeach.exe
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\bin\Debug\CsTeach.pdb
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\CsTeach.csprojResolveAssemblyReference.cache
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\HelpWindow.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\MainWindow.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Arrays01.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Arrays02.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\BasicUI01.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\BasicVars01.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\BasicVars02.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Chapters.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Des01.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Events.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\help1.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\helpLogin.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\helpStudent.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\helpTeacher.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Login.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\loopDo.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\loopDo2.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\LoopFor.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\loopFor2.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Loops01.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\loops02.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\LoopWhile.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\loopWhile2.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\MuArray1.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\MuArray2.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Ops01.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Ops02.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Ops03.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Properties.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Register.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\TeacherMenu.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\TeacherMenu2.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\TeacherMenuMain.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Test1.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\testPage.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\testsHelp.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\App.g.cs
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\CsTeach_MarkupCompile.cache
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\CsTeach_MarkupCompile.lref
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\HelpWindow.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\MainWindow.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Arrays01.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Arrays02.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\BasicUI01.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\BasicVars01.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\BasicVars02.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Chapters.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Des01.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Events.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\help1.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\helpLogin.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\helpStudent.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\helpTeacher.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Login.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\loopDo.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\loopDo2.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\LoopFor.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\loopFor2.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Loops01.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\loops02.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\LoopWhile.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\loopWhile2.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\MuArray1.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\MuArray2.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Ops01.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Ops02.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Ops03.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Properties.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Register.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\TeacherMenu.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\TeacherMenu2.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\TeacherMenuMain.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\Test1.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\testPage.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\Pages\testsHelp.baml
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\CsTeach.g.resources
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\CsTeach.Properties.Resources.resources
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\CsTeach.csproj.GenerateResource.Cache
+C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\obj\Debug\App.baml

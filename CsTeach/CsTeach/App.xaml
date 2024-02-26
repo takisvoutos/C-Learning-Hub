@@ -1,0 +1,18 @@
+﻿<Application x:Class="CsTeach.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:CsTeach"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+
+        <BitmapImage x:Key="loginbackground" CreateOptions="IgnoreImageCache" CacheOption="OnLoad" UriSource="C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\Images\main_background.png"/>
+        <BitmapImage x:Key="arrows" CreateOptions="IgnoreImageCache" CacheOption="OnLoad" UriSource="C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\Images\arrow.png"/>
+        <BitmapImage x:Key="profileImgNew" CreateOptions="IgnoreImageCache" CacheOption="OnLoad" UriSource="C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\Images\icon-learning.png"/>
+        <BitmapImage x:Key="Variables" CreateOptions="IgnoreImageCache" CacheOption="OnLoad" UriSource="C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\Images\variables.png"/>
+        <BitmapImage x:Key="advaVar" CreateOptions="IgnoreImageCache" CacheOption="OnLoad" UriSource="C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\Images\advaVar.png"/>
+        <BitmapImage x:Key="ui" CreateOptions="IgnoreImageCache" CacheOption="OnLoad" UriSource="C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\Images\ui.png"/>
+        <BitmapImage x:Key="insert" CreateOptions="IgnoreImageCache" CacheOption="OnLoad" UriSource="C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\Images\insert.png"/>
+        <BitmapImage x:Key="delete" CreateOptions="IgnoreImageCache" CacheOption="OnLoad" UriSource="C:\Users\Takis\Documents\Visual Studio 2015\Projects\CsTeach\CsTeach\Images\delete.png"/>
+
+    </Application.Resources>
+</Application>

@@ -1,0 +1,17 @@
+﻿<Page x:Class="CsTeach.Pages.helpTeacher"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CsTeach.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450"
+      Title="helpTeacher" Width="900" Height="419">
+
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="257" VerticalAlignment="Top" Width="288" Source="/CsTeach;component/Images/insertQuest.png" Margin="612,128,0,0"/>
+        <Image HorizontalAlignment="Left" Height="281" VerticalAlignment="Top" Width="601" Source="/CsTeach;component/Images/deleteQuest.png" Margin="0,128,0,0"/>
+        <TextBox HorizontalAlignment="Left" Height="115" TextWrapping="Wrap" Text="Loging as teacher you can do two things. EIther delete questions from the tests, or adding new ones. Each chapter cant have more than 10 questions. Messages will be shown accordingly, may the user do spelling mistakes. You can browse the questions of the chapter you want to evaluate so that you simple copy-paste it in the box in order to delete it." VerticalAlignment="Top" Width="884" IsReadOnly="True" Margin="6,0,0,0" FontSize="18"/>
+
+    </Grid>
+</Page>

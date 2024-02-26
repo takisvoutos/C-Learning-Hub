@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0E0466B6-6FF6-49A2-9432-6B6BB5EC4972}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CsTeach</RootNamespace>
+    <AssemblyName>CsTeach</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="HelpWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CsTeachDataSet.cs">
+      <DependentUpon>CsTeachDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CsTeachDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CsTeachDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="globalVars.cs" />
+    <Compile Include="HelpWindow.xaml.cs">
+      <DependentUpon>HelpWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Pages\Arrays01.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Arrays02.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\BasicUI01.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\BasicVars01.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\BasicVars02.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Chapters.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Des01.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Events.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\help1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\helpLogin.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\helpStudent.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\helpTeacher.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Login.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\loopDo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\loopDo2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\LoopFor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\loopFor2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Loops01.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\loops02.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\LoopWhile.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\loopWhile2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\MuArray1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\MuArray2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Ops01.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Ops02.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Ops03.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Properties.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Register.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\TeacherMenu.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\TeacherMenu2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\TeacherMenuMain.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Test1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\testPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\testsHelp.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Pages\Arrays01.xaml.cs">
+      <DependentUpon>Arrays01.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Arrays02.xaml.cs">
+      <DependentUpon>Arrays02.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\BasicUI01.xaml.cs">
+      <DependentUpon>BasicUI01.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\BasicVars01.xaml.cs">
+      <DependentUpon>BasicVars01.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\BasicVars02.xaml.cs">
+      <DependentUpon>BasicVars02.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Chapters.xaml.cs">
+      <DependentUpon>Chapters.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Des01.xaml.cs">
+      <DependentUpon>Des01.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Events.xaml.cs">
+      <DependentUpon>Events.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\help1.xaml.cs">
+      <DependentUpon>help1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\helpLogin.xaml.cs">
+      <DependentUpon>helpLogin.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\helpStudent.xaml.cs">
+      <DependentUpon>helpStudent.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\helpTeacher.xaml.cs">
+      <DependentUpon>helpTeacher.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Login.xaml.cs">
+      <DependentUpon>Login.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\loopDo.xaml.cs">
+      <DependentUpon>loopDo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\loopDo2.xaml.cs">
+      <DependentUpon>loopDo2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LoopFor.xaml.cs">
+      <DependentUpon>LoopFor.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\loopFor2.xaml.cs">
+      <DependentUpon>loopFor2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Loops01.xaml.cs">
+      <DependentUpon>Loops01.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\loops02.xaml.cs">
+      <DependentUpon>loops02.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\LoopWhile.xaml.cs">
+      <DependentUpon>LoopWhile.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\loopWhile2.xaml.cs">
+      <DependentUpon>loopWhile2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MuArray1.xaml.cs">
+      <DependentUpon>MuArray1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MuArray2.xaml.cs">
+      <DependentUpon>MuArray2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Ops01.xaml.cs">
+      <DependentUpon>Ops01.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Ops02.xaml.cs">
+      <DependentUpon>Ops02.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Ops03.xaml.cs">
+      <DependentUpon>Ops03.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Properties.xaml.cs">
+      <DependentUpon>Properties.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Register.xaml.cs">
+      <DependentUpon>Register.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\TeacherMenu.xaml.cs">
+      <DependentUpon>TeacherMenu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\TeacherMenu2.xaml.cs">
+      <DependentUpon>TeacherMenu2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\TeacherMenuMain.xaml.cs">
+      <DependentUpon>TeacherMenuMain.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Test1.xaml.cs">
+      <DependentUpon>Test1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\testPage.xaml.cs">
+      <DependentUpon>testPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\testsHelp.xaml.cs">
+      <DependentUpon>testsHelp.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="CsTeachDataSet.xsc">
+      <DependentUpon>CsTeachDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CsTeachDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CsTeachDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CsTeachDataSet.xss">
+      <DependentUpon>CsTeachDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Var01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Var02ii.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Var02i.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\next-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Ops01i.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Ops01ii.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Ops02i.png" />
+    <Resource Include="Images\Ops02ii.png" />
+    <Resource Include="Images\Ops03i.png" />
+    <Resource Include="Images\Ops03ii.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\loops01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\loops02i.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\loopWhile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\arr.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\loopWhile2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\loopfor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\loopfor2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\loopdo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\loopdo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Des01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Des01ii.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Arrays01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Arrays01i.png" />
+    <Resource Include="Images\Arrays01ii.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\MuArrays1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\MuArrays2i.png" />
+    <Resource Include="Images\MuArrays2ii.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\toolbox.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\propicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\prop01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\eventicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\event01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\register.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\deleteQuest.png" />
+    <Resource Include="Images\insertQuest.png" />
+    <Resource Include="Images\teacherMenu.png" />
+    <Resource Include="Images\tests1.png" />
+    <Resource Include="Images\tests2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\chaptersImg.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
