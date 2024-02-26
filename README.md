@@ -14,6 +14,10 @@ The delivered project focuses on the development of an educational software aime
 - **Instructor Access:**
   - Manage the database of questions used in tests.
   - Add and delete questions from the test section.
- 
+
+## About the Author
+This project was delivered as part of my academic work in the Department of Informatics at the University of Piraeus. 
+
+ _Built in 2020._
   
 ---
